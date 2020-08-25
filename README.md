@@ -1,7 +1,7 @@
 # Hi, I'm Edmund 👋
 
 <img src="https://github.com/wesycool/wesycool/raw/master/aboutme.jpg"/>
---
+
 
 ![Edmund's github stats](https://github-readme-stats.vercel.app/api?username=wesycool&show_icons=true)
 <!--
