@@ -4,6 +4,12 @@
 
 
 ![Edmund's github stats](https://github-readme-stats.vercel.app/api?username=wesycool&show_icons=true)
+
+## Get in touch
+
+- LinkedIn: [https://www.linkedin.com/in/ed-wong-bpm/](https://www.linkedin.com/in/ed-wong-bpm/)
+- Portfolio: [https://wesycool-portfolio.herokuapp.com/](https://wesycool-portfolio.herokuapp.com/)
+
 <!--
 **wesycool/wesycool** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
