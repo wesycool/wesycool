@@ -3,7 +3,7 @@
 <img src="https://github.com/wesycool/wesycool/raw/master/aboutme.jpg"/>
 
 
-![Edmund's github stats](https://github-readme-stats.vercel.app/api?username=wesycool&show_icons=true)
+![Edmund's github stats](https://github-readme-stats.vercel.app/api?username=wesycool&show_icons=true&hide=stars)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wesycool&layout=compact)](https://github.com/wesycool/github-readme-stats)
 
 ## Get in touch
