@@ -8,8 +8,8 @@
 
 ## Get in touch
 
-- LinkedIn: [https://www.linkedin.com/in/ed-wong-bpm/](https://www.linkedin.com/in/ed-wong-bpm/)
-- Portfolio: [https://wesycool-portfolio.herokuapp.com/](https://wesycool-portfolio.herokuapp.com/)
+- LinkedIn: [https://www.linkedin.com/in/edwongca/](https://www.linkedin.com/in/edwongca/)
+- Portfolio: [http://www.edwong.ca/](http://www.edwong.ca/)
 
 <!--
 **wesycool/wesycool** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
