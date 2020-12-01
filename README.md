@@ -8,7 +8,7 @@
 
 ## Get in touch
 
-- LinkedIn: [http://in.edwong.ca/](https://www.linkedin.com/in/edwongca/)
+- LinkedIn: [http://in.edwong.ca/](http://in.edwong.ca/)
 - Portfolio: [http://www.edwong.ca/](http://www.edwong.ca/)
 
 <!--
