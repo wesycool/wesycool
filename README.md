@@ -8,7 +8,7 @@
 
 ## Get in touch
 
-- LinkedIn: [http://in.edwong.ca/](http://in.edwong.ca/)
+- LinkedIn: [[http://in.edwong.ca/](https://www.linkedin.com/in/edwongca/)
 
 <!--
 **wesycool/wesycool** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
